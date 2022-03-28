@@ -2,4 +2,4 @@
 <!---
 Passord for brukernavn variant.ctf
 -->
-rSIV@LvU53!! 
+hswohila
